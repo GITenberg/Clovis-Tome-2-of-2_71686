@@ -1,5 +1,8 @@
 _repo: Clovis-Tome-2-of-2_71686
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71686-h/images/cover.jpg
 creator:
   author:
     agent_name: Kurth, Godefroid
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Godefroid_Kurth
     - https://fr.wikipedia.org/wiki/Godefroid_Kurth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71686#Clovis-Tome-2-of-2
 gutenberg_issued: '2023-09-19'
 identifiers:
   gutenberg: '71686'
